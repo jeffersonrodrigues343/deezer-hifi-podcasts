@@ -1,26 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jefferson HiFi Vault</title>
     <link>https://jeffersonrodrigues343.github.io/deezer-hifi-podcasts/</link>
+    <atom:link href="https://jeffersonrodrigues343.github.io/deezer-hifi-podcasts/feed.xml" rel="self" type="application/rss+xml"/>
     <language>pt-br</language>
+    <copyright>© 2026 Jefferson</copyright>
     <itunes:author>Jefferson</itunes:author>
+    <itunes:summary>Coleção pessoal de faixas exclusivas e masters em alta fidelidade FLAC Lossless 1411 kbps.</itunes:summary>
     <description>Coleção pessoal de faixas exclusivas e masters em alta fidelidade FLAC Lossless 1411 kbps.</description>
+    <itunes:owner>
+      <itunes:name>Jefferson</itunes:name>
+      <itunes:email>jeffersonk.alves@gmail.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>jeffersonk.alves@gmail.com (Jefferson)</managingEditor>
     <itunes:image href="https://jeffersonrodrigues343.github.io/deezer-hifi-podcasts/cover.png"/>
-    <itunes:category text="Music"/>
-    <itunes:explicit>false</itunes:explicit>
+    <image>
+      <url>https://jeffersonrodrigues343.github.io/deezer-hifi-podcasts/cover.png</url>
+      <title>Jefferson HiFi Vault</title>
+      <link>https://jeffersonrodrigues343.github.io/deezer-hifi-podcasts/</link>
+    </image>
+    <itunes:category text="Music">
+      <itunes:category text="Music Commentary"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
     <item>
       <title>Chris Brown ft. Jadakiss - Wall to Wall (Extended Mix HiFi)</title>
       <itunes:title>Wall to Wall (Extended Mix HiFi)</itunes:title>
       <itunes:author>Chris Brown ft. Jadakiss</itunes:author>
-      <description>Versão estendida sem cortes: intro clássica de 20s do Swizz Beatz, vocais completos do Chris Brown e verso do Jadakiss em áudio original FLAC Lossless 1411 kbps.</description>
+      <itunes:summary>Versão estendida sem cortes com intro limpa do Swizz Beatz, vocais completos do Chris Brown e verso do Jadakiss em áudio original FLAC Lossless 1411 kbps.</itunes:summary>
+      <description>Versão estendida sem cortes com intro limpa do Swizz Beatz, vocais completos do Chris Brown e verso do Jadakiss em áudio original FLAC Lossless 1411 kbps.</description>
       <pubDate>Mon, 09 Nov 2026 10:00:00 -0300</pubDate>
-      <enclosure url="https://jeffersonrodrigues343.github.io/deezer-hifi-podcasts/wall_to_wall.flac" length="26746848" type="audio/flac"/>
+      <enclosure url="https://jeffersonrodrigues343.github.io/deezer-hifi-podcasts/wall_to_wall.flac" length="26746848" type="audio/x-flac"/>
       <guid isPermaLink="false">wall-to-wall-hifi-001</guid>
       <itunes:duration>00:03:50</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://jeffersonrodrigues343.github.io/deezer-hifi-podcasts/cover.png"/>
     </item>
   </channel>
