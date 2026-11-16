@@ -27,6 +27,49 @@
       <itunes:category text="Music Commentary"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
+
+    <item>
+      <title>Who Is She x The Perfect Girl (TikTok Remix)</title>
+      <itunes:title>Who Is She x The Perfect Girl (TikTok Remix)</itunes:title>
+      <itunes:author>I Monster, Mareux</itunes:author>
+      <itunes:summary>Who Is She x The Perfect Girl (TikTok Remix) em áudio original FLAC Lossless.</itunes:summary>
+      <description>Who Is She x The Perfect Girl (TikTok Remix) em áudio original FLAC Lossless.</description>
+      <pubDate>Mon, 16 Nov 2026 13:00:00 -0300</pubDate>
+      <enclosure url="https://jeffersonrodrigues343.github.io/deezer-hifi-podcasts/who_is_she.flac" length="19689905" type="audio/flac"/>
+      <guid isPermaLink="false">who-is-she-perfect-girl-hifi-004</guid>
+      <itunes:duration>00:03:38</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://jeffersonrodrigues343.github.io/deezer-hifi-podcasts/cover.png"/>
+    </item>
+
+    <item>
+      <title>Michael Jackson - Smooth Criminal (Official Video Version)</title>
+      <itunes:title>Smooth Criminal (Official Video Version)</itunes:title>
+      <itunes:author>Michael Jackson</itunes:author>
+      <itunes:summary>Versão completa oficial do vídeo clipe de Smooth Criminal com introdução e interlúdios em áudio original FLAC Lossless.</itunes:summary>
+      <description>Versão completa oficial do vídeo clipe de Smooth Criminal com introdução e interlúdios em áudio original FLAC Lossless.</description>
+      <pubDate>Mon, 16 Nov 2026 12:30:00 -0300</pubDate>
+      <enclosure url="https://jeffersonrodrigues343.github.io/deezer-hifi-podcasts/smooth_criminal.flac" length="63261176" type="audio/flac"/>
+      <guid isPermaLink="false">smooth-criminal-video-hifi-003</guid>
+      <itunes:duration>00:09:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://jeffersonrodrigues343.github.io/deezer-hifi-podcasts/cover.png"/>
+    </item>
+
+    <item>
+      <title>Hakari Vs Kashimo X Tuca Donka (Extended Remix)</title>
+      <itunes:title>Hakari Vs Kashimo X Tuca Donka (Extended Remix)</itunes:title>
+      <itunes:author>Garou AMV</itunes:author>
+      <itunes:summary>Hakari Vs Kashimo X Tuca Donka (Extended Remix) em áudio original FLAC Lossless.</itunes:summary>
+      <description>Hakari Vs Kashimo X Tuca Donka (Extended Remix) em áudio original FLAC Lossless.</description>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 -0300</pubDate>
+      <enclosure url="https://jeffersonrodrigues343.github.io/deezer-hifi-podcasts/tuca_donka.flac" length="17716423" type="audio/flac"/>
+      <guid isPermaLink="false">hakari-kashimo-tuca-donka-hifi-002</guid>
+      <itunes:duration>00:02:31</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://jeffersonrodrigues343.github.io/deezer-hifi-podcasts/cover.png"/>
+    </item>
+
     <item>
       <title>Chris Brown ft. Jadakiss - Wall to Wall (Extended Mix HiFi)</title>
       <itunes:title>Wall to Wall (Extended Mix HiFi)</itunes:title>
